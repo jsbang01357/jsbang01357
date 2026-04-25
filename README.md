@@ -64,19 +64,19 @@
 
 | Project                                                               | Description                                                                      | Stack / Keywords                         |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------- |
-| 🩺[DiaFrame](https://github.com/Jisong-Medical-Engineering/DiaFrame)     | Vertex AI 기반 당뇨병 약제 추천 AI CDSS 프로토타입                               | Python, Vertex AI, Endocrinology         |
+| 🩺[DiaFrame](https://github.com/Jisong-Medical-Engineering/DiaFrame)     | Vertex AI 기반 당뇨병 약제 추천 AI CDSS 프로토타입                               | Python, SQLite, Vertex AI, Endocrinology |
 | 👩[EstroFrame](https://github.com/Jisong-Medical-Engineering/EstroFrame) | PK 기반 estradiol 시뮬레이션 및 perioperative hormone management CDSS 프로토타입 | Python, PK Modeling, Endocrinology, GAHT |
-| 👨[AndroFrame](https://github.com/Jisong-Medical-Engineering/AndroFrame) | 트랜스남성 GAHT 내분비내과 CDSS 프로토타입                                       | Python, Endocrinology, GAHT              |
+| 👨[AndroFrame](https://github.com/Jisong-Medical-Engineering/AndroFrame) | 트랜스남성 GAHT 내분비내과 CDSS 프로토타입                                       | Python, PK Modeling, Endocrinology, GAHT |
 | 🧠[NeuroFrame](https://github.com/Jisong-Medical-Engineering/NeuroFrame) | Shift-aware cognitive planning engine                                            | Python, Cognitive Planning               |
 
 ---
 
 ### Medical Data Pipeline
 
-| Project                                                              | Description                                    | Stack / Keywords              |
-| -------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------- |
-| [🧼CleanText](https://github.com/Jisong-Medical-Engineering/Clean_Text) | 안전한 EMR 텍스트 파싱 및 구조화 도구          | Python, Text Parsing, EMR     |
-| 🗄️[CleanEMR](https://github.com/Jisong-Medical-Engineering/Clean_EMR) | EMR 데이터를 SQLite 기반으로 구조화하는 시스템 | Python, SQLite, Data Pipeline |
+| Project                                                              | Description                                                            | Stack / Keywords                 |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------- |
+| [🧼CleanText](https://github.com/Jisong-Medical-Engineering/Clean_Text) | EMR 데이터 파싱, 구조화 및 비식별화 처리를 위한 보안 데이터 파이프라인 | TypeScript, Google Cloud, Docker |
+| 🗄️[CleanEMR](https://github.com/Jisong-Medical-Engineering/Clean_EMR) | EMR 데이터를 SQLite 기반으로 구조화하는 시스템                         | Python, SQLite, Data Pipeline    |
 
 ---
 
@@ -101,7 +101,7 @@
 
 | Project                                                                | Description                                      |
 | ---------------------------------------------------------------------- | ------------------------------------------------ |
-| 🐈[Choonsik-Workspace](https://github.com/jsbang01357/Choonsik-Workspace) | 개인용 Openclaw 에이전트 워크스페이스            |
+| 🐈[Choonsik-Workspace](https://github.com/jsbang01357/Choonsik-Workspace) | 개인용 Openclaw 에이전트(춘식이) 워크스페이스    |
 | 🔮[Obsidian PKM](https://github.com/jsbang01357/Obsidian_jsbang)          | Obsidian 기반 개인 지식 위키 및 사고 정리 시스템 |
 | 🎵[YT_Playlist](https://github.com/jsbang01357/YT_Playlist)               | 유튜브 플레이리스트 관리 도구                    |
 
