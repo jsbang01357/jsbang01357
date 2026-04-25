@@ -73,10 +73,10 @@
 
 ### Medical Data Pipeline
 
-| Project                                                              | Description                                                            | Stack / Keywords                 |
-| -------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------- |
-| [🧼CleanText](https://github.com/Jisong-Medical-Engineering/Clean_Text) | EMR 데이터 파싱, 구조화 및 비식별화 처리를 위한 보안 데이터 파이프라인 | TypeScript, Google Cloud, Docker |
-| 🗄️[CleanEMR](https://github.com/Jisong-Medical-Engineering/Clean_EMR) | EMR 데이터를 SQLite 기반으로 구조화하는 시스템                         | Python, SQLite, Data Pipeline    |
+| Project                                                                 | Description                                                            | Stack / Keywords                 |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------- |
+| [🧼]()[CleanText ](https://github.com/Jisong-Medical-Engineering/Clean_Text) | EMR 데이터 파싱, 구조화 및 비식별화 처리를 위한 보안 데이터 파이프라인 | TypeScript, Google Cloud, Docker |
+| 🗄️[CleanEMR](https://github.com/Jisong-Medical-Engineering/Clean_EMR)    | EMR 데이터를 SQLite 기반으로 구조화하는 시스템                         | Python, SQLite, Data Pipeline    |
 
 ---
 
