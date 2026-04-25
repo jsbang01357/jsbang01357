@@ -11,15 +11,18 @@
 ## 🧬 의료 공학 및 AI (Medical Engineering)
 *의료 데이터 파이프라인 및 AI 보조 임상의사결정지원시스템(CDSS) 프로토타입*
 
-* 📊 **[Clean_Text (CleanEMR)](https://github.com/Jisong-Medical-Engineering/Clean_Text)** - 브라우저 환경에서 구동되는 안전한 EMR 텍스트 파싱 및 데이터 구조화 툴. (데이터 전처리 파이프라인)
+### 🖼️ Frame Series
 * 🩺 **[DiaFrame](https://github.com/Jisong-Medical-Engineering/DiaFrame)** - AI를 활용한 당뇨병 약제 추천 및 검증을 위한 내분비내과 CDSS 프로토타입.
-* 🧠 **[Neuroframe](https://github.com/Jisong-Medical-Engineering/Neuroframe)** - 신경과 CDSS (개발 중)
-* 👨 **[Androframe](https://github.com/Jisong-Medical-Engineering/Androframe)** - 남성과학(비뇨의학과) CDSS (개발 중)
+* 🧠 **[NeuroFrame](https://github.com/Jisong-Medical-Engineering/NeuroFrame)** - 신경과 CDSS (개발 중)
 * 👩 **[EstroFrame](https://github.com/Jisong-Medical-Engineering/EstroFrame)** - 부인과/내분비내과 CDSS (개발 중)
+* 👨 **[AndroFrame](https://github.com/Jisong-Medical-Engineering/AndroFrame)** - 남성과학(비뇨의학과) CDSS (개발 중)
+
+### 🧪 Others
+* 📊 **[CleanText (EMR)](https://github.com/Jisong-Medical-Engineering/Clean_Text)** - 브라우저 환경에서 구동되는 안전한 EMR 텍스트 파싱 및 데이터 구조화 툴.
+* 🍇 **[VoiceGrape](https://github.com/Jisong-Medical-Engineering/VoiceGrape)** - 음성 처리 및 분석 툴.
 
 ## 🛠️ 사이드 프로젝트 및 도구 (Side Projects & Tools)
-* 🍇 **[Voicegrape](https://github.com/jsbang01357/Voicegrape)** - 음성 처리 및 분석 툴.
-* 🐈 **[Choonsik-Workspace](https://github.com/jsbang01357/Choonsik-Workspace)** - 옵시디언(Obsidian) Vault 자동화 및 표준화 스크립트 모음.
+* 🐈 **[Choonsik-Workspace](https://github.com/jsbang01357/Choonsik-Workspace)** - openclaw 에이전트 (Obsidian PKM과는 별개).
 * 🎵 **[YT_Playlist](https://github.com/jsbang01357/YT_Playlist)** - 유튜브 플레이리스트 관리 유틸리티.
 
 ---
