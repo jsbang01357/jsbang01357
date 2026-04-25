@@ -9,14 +9,15 @@
 
 ## Focus
 
-- Clinical Decision Support Systems
-- Pharmacokinetic & Risk Modeling
-- Endocrinology AI Prototypes
+- Medical Engineering
+  - Clinical Decision Support Systems
+  - Pharmacokinetic & Risk Modeling
+  - Endocrinology AI Prototypes
 
-- Medical Data Engineering
-- EMR Text Parsing & Structuring
+- Medical Data
+  - EMR Text Parsing & Structuring
 
-- Personal Knowledge Management Systems
+- Personal Knowledge Management
 
 ---
 
