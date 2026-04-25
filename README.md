@@ -11,7 +11,7 @@
 
 ## 🧬 의료 공학 및 AI (Medical Engineering)
 
-*의료 데이터 파이프라인 및 AI 보조 임상의사결정지원시스템(CDSS) 프로토타입*
+*의료 데이터 파이프라인 및 임상의사결정지원시스템(CDSS) 프로토타입*
 
 ### 🖼️ Frame Series
 
@@ -20,10 +20,10 @@
 * 👩 **[EstroFrame](https://github.com/Jisong-Medical-Engineering/EstroFrame)** - 트랜스여성 GAHT CDSS
 * 👨 **[AndroFrame](https://github.com/Jisong-Medical-Engineering/AndroFrame)** - 트랜스남성 GAHT CDSS
 
-### Data Pipline
+### Data Pipeline
 
-* **[CleanText](https://github.com/Jisong-Medical-Engineering/Clean_Text)** - 로컬 브라우저 환경에서 처리되는 안전한 EMR 텍스트 파싱 및 CSV 출력 툴.
-* **[CleanEMR](https://github.com/Jisong-Medical-Engineering/Clean_EMR)** - EMR 데이터 SQLite 구조화.
+* 🧹 **[CleanText](https://github.com/Jisong-Medical-Engineering/Clean_Text)** - 로컬 브라우저 환경에서 처리되는 안전한 EMR 텍스트 파싱 및 CSV 출력 툴.
+* 🗄️ **[CleanEMR](https://github.com/Jisong-Medical-Engineering/Clean_EMR)** - EMR 데이터 SQLite 구조화 및 관리 시스템.
 
 ### 🧪 Others
 
@@ -32,7 +32,7 @@
 ## 🛠️ 사이드 프로젝트 (Side Projects)
 
 * 🐈 **[Choonsik-Workspace](https://github.com/jsbang01357/Choonsik-Workspace)** - 개인용 Openclaw 에이전트
-* **[🌌 Obsidian PKM](https://github.com/jsbang01357/Obsidian_jsbang)** - 개인 지식 구조화 프로젝트
+* 🔮 **[Obsidian PKM](https://github.com/jsbang01357/Obsidian_jsbang)** - 흑요석(Obsidian) 기반의 개인 지식 구조화 및 Second Brain 프로젝트.
 * 🎵 **[YT_Playlist](https://github.com/jsbang01357/YT_Playlist)** - 유튜브 플레이리스트 관리 유틸리티.
 
 ---
