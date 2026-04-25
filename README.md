@@ -62,54 +62,56 @@
 
 ### Medical Engineering / CDSS Prototypes
 
-| Project                                                                         | Description                                                                      | Stack / Keywords                         |
-| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------- |
-| 🩺**[DiaFrame](https://github.com/Jisong-Medical-Engineering/DiaFrame)**     | Vertex AI 기반 당뇨병 약제 추천 AI CDSS 프로토타입                               | Python, Vertex AI, Endocrinology         |
-| 👩**[EstroFrame](https://github.com/Jisong-Medical-Engineering/EstroFrame)** | PK 기반 estradiol 시뮬레이션 및 perioperative hormone management CDSS 프로토타입 | Python, PK Modeling, Endocrinology, GAHT |
-| 👨**[AndroFrame](https://github.com/Jisong-Medical-Engineering/AndroFrame)** | 트랜스남성 GAHT 내분비내과 CDSS 프로토타입                                       | Python, Endocrinology, GAHT              |
-| 🧠**[NeuroFrame](https://github.com/Jisong-Medical-Engineering/NeuroFrame)** | Shift-aware cognitive planning engine                                            | Python, Cognitive Planning               |
+| Project                                                               | Description                                                                      | Stack / Keywords                         |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------- |
+| 🩺[DiaFrame](https://github.com/Jisong-Medical-Engineering/DiaFrame)     | Vertex AI 기반 당뇨병 약제 추천 AI CDSS 프로토타입                               | Python, Vertex AI, Endocrinology         |
+| 👩[EstroFrame](https://github.com/Jisong-Medical-Engineering/EstroFrame) | PK 기반 estradiol 시뮬레이션 및 perioperative hormone management CDSS 프로토타입 | Python, PK Modeling, Endocrinology, GAHT |
+| 👨[AndroFrame](https://github.com/Jisong-Medical-Engineering/AndroFrame) | 트랜스남성 GAHT 내분비내과 CDSS 프로토타입                                       | Python, Endocrinology, GAHT              |
+| 🧠[NeuroFrame](https://github.com/Jisong-Medical-Engineering/NeuroFrame) | Shift-aware cognitive planning engine                                            | Python, Cognitive Planning               |
 
 ---
 
 ### Medical Data Pipeline
 
-| Project                                                                        | Description                                    | Stack / Keywords              |
-| ------------------------------------------------------------------------------ | ---------------------------------------------- | ----------------------------- |
-| 🧹**[CleanText](https://github.com/Jisong-Medical-Engineering/Clean_Text)** | 안전한 EMR 텍스트 파싱 및 구조화 도구          | Python, Text Parsing, EMR     |
-| 🗄️[**CleanEMR**](https://github.com/Jisong-Medical-Engineering/Clean_EMR)      | EMR 데이터를 SQLite 기반으로 구조화하는 시스템 | Python, SQLite, Data Pipeline |
+| Project                                                              | Description                                    | Stack / Keywords              |
+| -------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------- |
+| [🧼CleanText](https://github.com/Jisong-Medical-Engineering/Clean_Text) | 안전한 EMR 텍스트 파싱 및 구조화 도구          | Python, Text Parsing, EMR     |
+| 🗄️[CleanEMR](https://github.com/Jisong-Medical-Engineering/Clean_EMR) | EMR 데이터를 SQLite 기반으로 구조화하는 시스템 | Python, SQLite, Data Pipeline |
 
 ---
 
 ### Medical Utilities
 
-| Project                                                                         | Description                           | Stack / Keywords            |
-| ------------------------------------------------------------------------------- | ------------------------------------- | --------------------------- |
-| 🍇**[VoiceGrape](https://github.com/Jisong-Medical-Engineering/VoiceGrape)** | 이비인후과 음성 처리 및 분석 유틸리티 | Python, Voice Analysis, ENT |
+| Project                                                               | Description                           | Stack / Keywords            |
+| --------------------------------------------------------------------- | ------------------------------------- | --------------------------- |
+| 🍇[VoiceGrape](https://github.com/Jisong-Medical-Engineering/VoiceGrape) | 이비인후과 음성 처리 및 분석 유틸리티 | Python, Voice Analysis, ENT |
 
 ---
 
 ### Jisong Cloud Platform
 
-| Project                                                          | Description                              |
-| ---------------------------------------------------------------- | ---------------------------------------- |
-| 🌐**[jisong.dev](https://github.com/jsbang01357/jisong.dev)** | 개인 포트폴리오 웹사이트                 |
-| ☁️[**JisongCloud**](https://github.com/jsbang01357/jisong_cloud) | Google Cloud Platform 기반 개인 클라우드 |
+| Project                                                     | Description                              |
+| ----------------------------------------------------------- | ---------------------------------------- |
+| 🌐[jisong.dev](https://github.com/jsbang01357/jisong.dev)      | 개인 포트폴리오 웹사이트                 |
+| ☁️[JisongCloud](https://github.com/jsbang01357/jisong_cloud) | Google Cloud Platform 기반 개인 클라우드 |
 
 ---
 
 ### Side Projects
 
-| Project                                                                          | Description                                      |
-| -------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 🐈**[Choonsik-Workspace](https://github.com/jsbang01357/Choonsik-Workspace)** | 개인용 Openclaw 에이전트 워크스페이스            |
-| 🔮**[Obsidian PKM](https://github.com/jsbang01357/Obsidian_jsbang)**          | Obsidian 기반 개인 지식 위키 및 사고 정리 시스템 |
-| 🎵**[YT_Playlist](https://github.com/jsbang01357/YT_Playlist)**               | 유튜브 플레이리스트 관리 도구                    |
+| Project                                                                | Description                                      |
+| ---------------------------------------------------------------------- | ------------------------------------------------ |
+| 🐈[Choonsik-Workspace](https://github.com/jsbang01357/Choonsik-Workspace) | 개인용 Openclaw 에이전트 워크스페이스            |
+| 🔮[Obsidian PKM](https://github.com/jsbang01357/Obsidian_jsbang)          | Obsidian 기반 개인 지식 위키 및 사고 정리 시스템 |
+| 🎵[YT_Playlist](https://github.com/jsbang01357/YT_Playlist)               | 유튜브 플레이리스트 관리 도구                    |
 
 ---
 
 ## Writing
 
 [![Brunch Badge](https://img.shields.io/badge/Brunch-%40jsbang-00C6BD?style=for-the-badge&logo=brunch&logoColor=white)](https://brunch.co.kr/@jsbang)
+
+
 생각을 정리하고 지식을 공유하는 브런치 작가로 활동 중입니다.
 
 ---
