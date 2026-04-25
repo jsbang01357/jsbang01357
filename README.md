@@ -9,15 +9,15 @@
 
 ## Focus
 
-- Medical Engineering
+- ⚙️ Medical Engineering
   - Clinical Decision Support Systems
   - Pharmacokinetic & Risk Modeling
   - Endocrinology AI Prototypes
 
-- Medical Data
+- 📊 Medical Data
   - EMR Text Parsing & Structuring
 
-- Personal Knowledge Management
+- 💎 Personal Knowledge Management
 
 ---
 
@@ -52,10 +52,10 @@
 
 ### Technologies & Tools
 
-* **Languages**: ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-* **Web & Cloud**: ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)
-* **DB & Infra**: ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-* **Knowledge System**: ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white)
+* 🔤 Languages: ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+* 🌐 Web & Cloud: ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)
+* 💾 DB & Infra: ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+* 💎 Knowledge System: ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white)
 
 ---
 
@@ -65,7 +65,7 @@
 
 | Project                                                               | Description                                                                      | Stack / Keywords                         |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------- |
-| 🩺 [DiaFrame](https://github.com/jsbang01357/DiaFrame)     | Vertex AI 기반 당뇨병 약제 추천 AI CDSS 프로토타입                               | Python, SQLite, Vertex AI, Endocrinology |
+| 💊 [DiaFrame](https://github.com/jsbang01357/DiaFrame)     | Vertex AI 기반 당뇨병 약제 추천 AI CDSS 프로토타입                               | Python, SQLite, Vertex AI, Endocrinology |
 | 👩 [EstroFrame](https://github.com/jsbang01357/EstroFrame) | PK 기반 estradiol 시뮬레이션 및 perioperative hormone management CDSS 프로토타입 | Python, PK Modeling, Endocrinology, GAHT |
 | 👨 [AndroFrame](https://github.com/jsbang01357/AndroFrame) | 트랜스남성 GAHT 내분비내과 CDSS 프로토타입                                       | Python, PK Modeling, Endocrinology, GAHT |
 | 🧠 [NeuroFrame](https://github.com/jsbang01357/NeuroFrame) | Shift-aware cognitive planning engine                                            | Python, Cognitive Planning, Neurology  |
@@ -77,7 +77,7 @@
 | Project                                                                 | Description                                                            | Stack / Keywords                 |
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------- |
 | 🧼 [CleanText](https://github.com/jsbang01357/Clean_Text) | EMR 데이터 파싱, 구조화 및 비식별화 처리를 위한 보안 데이터 파이프라인 | TypeScript, Google Cloud, Docker |
-| 🗄️ [CleanEMR](https://github.com/jsbang01357/Clean_EMR)    | EMR 데이터를 SQLite 기반으로 구조화하는 시스템                         | Python, SQLite, Data Pipeline    |
+| 📊 [CleanEMR](https://github.com/jsbang01357/Clean_EMR)    | EMR 데이터를 SQLite 기반으로 구조화하는 시스템                         | Python, SQLite, Data Pipeline    |
 
 ---
 
@@ -103,7 +103,7 @@
 | Project                                                                | Description                                      |
 | ---------------------------------------------------------------------- | ------------------------------------------------ |
 | 🐈 Choonsik-Workspace | 개인용 Openclaw 에이전트(춘식이) 워크스페이스    |
-| 🔮 Obsidian PKM          | Obsidian 기반 개인 지식 위키 및 사고 정리 시스템 |
+| 💎 Obsidian PKM          | Obsidian 기반 개인 지식 위키 및 사고 정리 시스템 |
 | 🎵 [YT_Playlist](https://github.com/jsbang01357/YT_Playlist)               | 유튜브 플레이리스트 관리 도구                    |
 
 ---
