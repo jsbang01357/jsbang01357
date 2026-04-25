@@ -63,10 +63,10 @@
 
 ### Medical Engineering / CDSS Prototypes
 
-| Project                                                               | Description                                                                      | Stack / Keywords                         |
-| -------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------- |
+| Project                                                                  | Description                                                                      | Stack / Keywords                         |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------- |
 | 💊 [DiaFrame](https://github.com/jsbang01357/DiaFrame)     | Vertex AI 기반 당뇨병 약제 추천 AI CDSS 프로토타입                               | Python, SQLite, Vertex AI, Endocrinology |
-| 👩 [EstroFrame](https://github.com/jsbang01357/EstroFrame) | PK 기반 estradiol 시뮬레이션 및 perioperative hormone management CDSS 프로토타입 | Python, PK Modeling, Endocrinology, GAHT |
+| 👩 [EstroFrame](https://github.com/jsbang01357/EstroFrame) | 트랜스여성 GAHT 내분비내과 CDSS 프로토타입 | Python, PK Modeling, Endocrinology, GAHT |
 | 👨 [AndroFrame](https://github.com/jsbang01357/AndroFrame) | 트랜스남성 GAHT 내분비내과 CDSS 프로토타입                                       | Python, PK Modeling, Endocrinology, GAHT |
 | 🧠 [NeuroFrame](https://github.com/jsbang01357/NeuroFrame) | Shift-aware cognitive planning engine                                            | Python, Cognitive Planning, Neurology  |
 
