@@ -36,9 +36,9 @@
 
 ## Certifications
 
-* 🇺🇸 영어: **New TEPS 550**
-* 🇯🇵 **일본어**: **JLPT N1**
-* 🏥 **의료**: **KALS** (Korean Advanced Life Support)
+* 🇺🇸 English: **New TEPS 550**
+* 🇯🇵 日本語: **JLPT N1**
+* 🏥 Medical: **KALS** (Korean Advanced Life Support)
 
 ---
 
@@ -68,7 +68,7 @@
 | 🩺 [DiaFrame](https://github.com/jsbang01357/DiaFrame)     | Vertex AI 기반 당뇨병 약제 추천 AI CDSS 프로토타입                               | Python, SQLite, Vertex AI, Endocrinology |
 | 👩 [EstroFrame](https://github.com/jsbang01357/EstroFrame) | PK 기반 estradiol 시뮬레이션 및 perioperative hormone management CDSS 프로토타입 | Python, PK Modeling, Endocrinology, GAHT |
 | 👨 [AndroFrame](https://github.com/jsbang01357/AndroFrame) | 트랜스남성 GAHT 내분비내과 CDSS 프로토타입                                       | Python, PK Modeling, Endocrinology, GAHT |
-| 🧠 [NeuroFrame](https://github.com/jsbang01357/NeuroFrame) | Shift-aware cognitive planning engine                                            | Python, Cognitive Planning               |
+| 🧠 [NeuroFrame](https://github.com/jsbang01357/NeuroFrame) | Shift-aware cognitive planning engine                                            | Python, Cognitive Planning, Neurology  |
 
 ---
 
@@ -91,10 +91,10 @@
 
 ### Jisong Cloud Platform
 
-| Project                                                     | Description                              |
-| ----------------------------------------------------------- | ---------------------------------------- |
-| 🌐 [jisong.dev](https://github.com/jsbang01357/jisong.dev)      | 개인 포트폴리오 웹사이트                 |
-| ☁️ JisongCloud | Google Cloud Platform 기반 개인 클라우드 |
+| Project                                                     | Description                              | Stack / Keywords            |
+| ----------------------------------------------------------- | ---------------------------------------- | --------------------------- |
+| ☁️ JisongCloud | Google Cloud Platform 기반 개인 클라우드 | Google Cloud Run, Build, Storage, Domain mapping |
+
 
 ---
 
