@@ -31,11 +31,11 @@
 
   - B.S. in Architectural, Civil & Environmental Engineering, 2022
   - **Great Honor** (최우등 졸업) | **Early Graduation** (조기 졸업)
-  - 2-year Full Academic Scholarship (2년 전액장학)
+  - **2-year Full Academic Scholarship** (2년 전액 장학)
 
 ## Certifications
 
-* 🇺🇸 English: **New TEPS 550**
+* 🇺🇸 English: **iBT TOEFL 110** | **New TEPS 550**
 * 🇯🇵 日本語: **JLPT N1**
 * 🏥 Medical: **KALS** (Korean Advanced Life Support)
 
