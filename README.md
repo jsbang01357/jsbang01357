@@ -31,7 +31,7 @@
 
   - B.S. in Architectural, Civil & Environmental Engineering, 2022
   - **Great Honor** (최우등 졸업) | **Early Graduation** (조기 졸업)
-  - 2-year Full Academic Scholarship
+  - 2-year Full Academic Scholarship (2년 전액장학)
 
 ## Certifications
 
@@ -116,7 +116,7 @@
 
 ## Photography
 
-### 📸 [Quiet Structure](https://photo.jisong.dev)
+[![Photography Badge](https://img.shields.io/badge/Photography-Quiet%20Structure-black?style=for-the-badge&logo=unsplash&logoColor=white)](https://photo.jisong.dev)
 
 빛과 공간, 구조가 잠깐 정렬되던 순간들.
 
