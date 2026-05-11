@@ -10,13 +10,11 @@
 ## Focus
 
 - ⚙️ Medical Engineering
-
   - Clinical Decision Support Systems
   - Pharmacokinetic & Risk Modeling
   - Endocrinology AI Prototypes
 - 📊 Medical Data
-
-  - EMR Text Parsing & Structuring
+  - EMR Text Processing & Structuring
 - 💎 Personal Knowledge Management
 
 ---
@@ -24,17 +22,17 @@
 ## Education
 
 - 🩺 **Konkuk University School of Medicine**
-
   - M.Med Candidate, expected 2027
   - **Admission with Top Honors** (수석 입학)
-- 🏗️ **Korea University**
 
+- 🏗️ **Korea University**
   - B.S. in Architectural, Civil & Environmental Engineering, 2022
   - **Great Honor** (최우등 졸업) | **Early Graduation** (조기 졸업)
   - **2-year Full Academic Scholarship** (2년 전액 장학)
 
-## Certifications
+## Certifications & Honors
 
+* 🧠 Mensa Korea: **Full Member** (정회원)
 * 🇺🇸 English: **iBT TOEFL 110** | **New TEPS 550**
 * 🇯🇵 日本語: **JLPT N1**
 * 🏥 Medical: **KALS** (Korean Advanced Life Support)
