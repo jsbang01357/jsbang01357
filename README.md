@@ -27,13 +27,13 @@
 
 - 🏗️ **Korea University**
   - B.S. in Architectural, Civil & Environmental Engineering, 2022
-  - **Great Honor** (최우등 졸업) | **Early Graduation** (조기 졸업)
+  - **Great Honor** (최우등 졸업), **Early Graduation** (조기 졸업)
   - **2-year Full Academic Scholarship** (2년 전액 장학)
 
 ## Certifications & Honors
 
 * 🧠 Mensa Korea: **Full Member** (정회원)
-* 🇺🇸 English: **iBT TOEFL 110** | **New TEPS 550**
+* 🇺🇸 English: **iBT TOEFL 110**, **New TEPS 550**
 * 🇯🇵 日本語: **JLPT N1**
 * 🏥 Medical: **KALS** (Korean Advanced Life Support)
 
@@ -63,7 +63,7 @@
 | Project                                                | Description                                        | Stack / Keywords                         |
 | ------------------------------------------------------ | -------------------------------------------------- | ---------------------------------------- |
 | 💊[DiaFrame](https://github.com/jsbang01357/DiaFrame)     | Vertex AI 기반 당뇨병 약제 추천 AI CDSS 프로토타입 | Python, SQLite, Vertex AI, Endocrinology |
-| 👩[EstroFrame](https://github.com/jsbang01357/EstroFrame) | 트랜스여성 GAHT 내분비내과 CDSS 프로토타입         | Python, PK Modeling, Endocrinology, GAHT |
+| 👩 EstroFrame | 트랜스여성 GAHT 내분비내과 CDSS 프로토타입         | Python, PK Modeling, Endocrinology, GAHT |
 | 👨[AndroFrame](https://github.com/jsbang01357/AndroFrame) | 트랜스남성 GAHT 내분비내과 CDSS 프로토타입         | Python, PK Modeling, Endocrinology, GAHT |
 | 🧠[NeuroFrame](https://github.com/jsbang01357/NeuroFrame) | Shift-aware cognitive planning engine              | Python, Cognitive Planning, Neurology    |
 
@@ -74,7 +74,7 @@
 | Project                                               | Description                                                            | Stack / Keywords                 |
 | ----------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------- |
 | 🧼[CleanText](https://github.com/jsbang01357/Clean_Text) | EMR 데이터 파싱, 구조화 및 비식별화 처리를 위한 보안 데이터 파이프라인 | TypeScript, Google Cloud, Docker |
-| 📊[CleanEMR](https://github.com/jsbang01357/Clean_EMR)   | EMR 데이터를 SQLite 기반으로 구조화하는 시스템                         | Python, SQLite, Data Pipeline    |
+| 📊 CleanEMR   | EMR 데이터를 SQLite 기반으로 구조화하는 시스템                         | Python, SQLite, Data Pipeline    |
 
 ---
 
@@ -132,4 +132,4 @@ They are not intended for direct clinical use or independent medical decision-ma
 📧 **Email:** jsbang01357@gmail.com
 
 
-Last Edited: 2026-05-11
+Last Edited: 2026-06-01
