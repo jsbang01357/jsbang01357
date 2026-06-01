@@ -27,6 +27,7 @@
 
 - 🏗️ **Korea University**
   - B.S. in Architectural, Civil & Environmental Engineering, 2022
+  - ABEEK-accredited Engineering Program
   - **Great Honor** (최우등 졸업), **Early Graduation** (조기 졸업)
   - **2-year Full Academic Scholarship** (2년 전액 장학)
 
