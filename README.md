@@ -1,9 +1,11 @@
-# Jisong Bang's GitHub
+# Jisong Bang
 
 > Medical student and engineer translating clinical uncertainty into structured, model-based healthcare tools.
 
 I am interested in interpreting uncertainty in clinical practice through engineering-based modeling and structured medical data,
 and in building decision-support tools that fit real-world healthcare workflows.
+
+https://orcid.org/0009-0001-5671-3814
 
 ---
 
