@@ -5,7 +5,7 @@
 I am interested in interpreting uncertainty in clinical practice through engineering-based modeling and structured medical data,
 and in building decision-support tools that fit real-world healthcare workflows.
 
-https://orcid.org/0009-0001-5671-3814
+orcid.org/0009-0001-5671-3814
 
 ---
 
@@ -132,7 +132,7 @@ They are not intended for direct clinical use or independent medical decision-ma
 
 ## Contact
 
-📧 **Email:** jsbang01357@gmail.com
+📧 **Email:** me@jisong.dev
 
 
 Last Edited: 2026-06-01
